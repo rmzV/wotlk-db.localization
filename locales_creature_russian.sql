@@ -1,4 +1,4 @@
-INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (3, 'Плотояд', '');
+﻿INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (3, 'Плотояд', '');
 INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (6, 'Кобольд-вредитель', '');
 INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (29, 'Канретад', '');
 INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (30, 'Лесной паук', '');
@@ -21118,7 +21118,7 @@ INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (31
 INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (31554, 'Неутомимый дозорный', '');
 INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (31555, 'Восставший работник', '');
 INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (31556, 'Проголодавшийся чумной пес', '');
-INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (31557, 'Уда Зверюга', '');
+INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (31557, 'Уда Зверюга', 'Хозяйка таверны');
 INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (31562, 'Присутствие Древнего Бога', '');
 INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (31563, 'Боевой страж Песни Войны', '');
 INSERT INTO `locales_creature` (`entry`, `name_loc8`, `subname_loc8`) VALUES (31564, 'Боевой страж Песни Войны', '');
